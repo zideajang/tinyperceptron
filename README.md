@@ -1,2 +1,2 @@
-# tinyperceptron
+# Tiny Perceptron
 multi modal perceptron
